@@ -1,4 +1,4 @@
-[
+{"results": [
   {
     "_id": "5da701af99544020cf36e622",
     "index": 0,
@@ -306,5 +306,6 @@
     ],
     "greeting": "Hello, Antoinette Hampton! You have 2 unread messages.",
     "favoriteFruit": "strawberry"
+  }
   }
 ]

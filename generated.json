@@ -1,4 +1,4 @@
-[
+{"results": [
   {
     "_id": "5da7101d315a84d062800b68",
     "index": 0,
@@ -220,3 +220,4 @@
     "favoriteFruit": "apple"
   }
 ]
+}
